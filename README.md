@@ -1,6 +1,6 @@
 # Penjalasan berupa story board dari Noteme ( Catatan )
 ![image](https://github.com/user-attachments/assets/07768e95-e778-48dc-bcd2-760f5baadc12)
-![Gambar WhatsApp 2024-11-05 pukul 15 33 14_43997a62](https://github.com/user-attachments/assets/9b8e23d6-00d0-47f5-b6bc-ab417664636a)<img src="URL_GAMBAR" alt="Deskripsi Gambar" height="150"/>
+![Gambar WhatsApp 2024-11-05 pukul 15 33 14_43997a62](https://github.com/user-attachments/assets/9b8e23d6-00d0-47f5-b6bc-ab417664636a)\
 ![Gambar WhatsApp 2024-11-05 pukul 15 33 30_45ac3798](https://github.com/user-attachments/assets/4ffbbb40-ee2b-4b62-b7ca-aa884bdc5bc3)
 ![Gambar WhatsApp 2024-11-05 pukul 15 33 44_7cd3b734](https://github.com/user-attachments/assets/c75cc99a-31db-48fb-af3e-a5d9c4b54f83)
 ![Gambar WhatsApp 2024-11-05 pukul 15 34 17_638d57d2](https://github.com/user-attachments/assets/3717dd14-4eb5-4aa5-af93-1967bd023057)
