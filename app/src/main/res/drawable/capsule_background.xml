@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/capsule_background_red" android:state_enabled="false"/>
+    <item android:drawable="@drawable/capsule_background_green" android:state_enabled="true"/>
+</selector>
