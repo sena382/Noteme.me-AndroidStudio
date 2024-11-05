@@ -11,24 +11,31 @@ Gambar ini adalah sebuah storyboard aplikasi yang menunjukkan alur navigasi atau
 1. Halaman Utama ("Noteme"):
 
 •	Tampilan awal akan menunjukkan pesan "Note is empty" jika tidak ada catatan yang tersimpan.
+
 •	Tombol "Add Task" tersedia untuk menambahkan catatan baru.
 
 2. Halaman Tambah Catatan ("Add Task"):
 
 •	Formulir input terdiri dari:
+
 •	Judul: Pengguna dapat memasukkan judul catatan.
+
 •	Deskripsi (opsional): Untuk menambahkan detail tambahan.
+
 •	Tanggal Jatuh Tempo: Pengguna memilih tanggal batas waktu.
+
 •	Tombol "Save" untuk menyimpan catatan.
 
 3. Halaman Edit Catatan ("Edit Task"):
 
 •	Pengguna dapat mengedit judul, deskripsi, dan tanggal jatuh tempo.
+
 •	Tombol "Update" untuk memperbarui catatan yang sudah ada.
 
 4. Notifikasi Pengingat :
 
 •	Aplikasi akan mengirim notifikasi satu hari sebelum tanggal jatuh tempo.
+
 •	Pesan notifikasi berupa: "Task [Judul Tugas] akan jatuh tempo besok!"
 
 5. Halaman Detail Tugas ("Detail Task"):
