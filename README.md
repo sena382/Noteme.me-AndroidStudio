@@ -1,4 +1,4 @@
-# Penjalasan berupa story board dari Noteme ( Catatan )
+# Penjelasan berupa story board dari Noteme ( Catatan )
 ![image](https://github.com/user-attachments/assets/07768e95-e778-48dc-bcd2-760f5baadc12)
 ![Gambar WhatsApp 2024-11-05 pukul 15 33 14_43997a62](https://github.com/user-attachments/assets/9b8e23d6-00d0-47f5-b6bc-ab417664636a)\
 ![Gambar WhatsApp 2024-11-05 pukul 15 33 30_45ac3798](https://github.com/user-attachments/assets/4ffbbb40-ee2b-4b62-b7ca-aa884bdc5bc3)
