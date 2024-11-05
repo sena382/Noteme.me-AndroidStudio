@@ -45,5 +45,5 @@ Gambar ini adalah sebuah storyboard aplikasi yang menunjukkan alur navigasi atau
 6. Halaman Daftar Tugas ("Daftar Task"):
 
 •	Menampilkan daftar tugas yang sudah ditambahkan beserta tanggal jatuh tempo masing-masing.
-Catatan “Tampilan pada setiap halaman mengikuti konsep yang sederhana dengan warna netral, memastikan bahwa pengguna dapat fokus pada informasi penting tanpa distraksi tambahan.”
 
+Catatan “Tampilan pada setiap halaman mengikuti konsep yang sederhana dengan warna netral, memastikan bahwa pengguna dapat fokus pada informasi penting tanpa distraksi tambahan.”
