@@ -1,4 +1,6 @@
-# Sena-Dwi-Ilham-Santoso-312310803-noteme
+# Sena Dwi Ilham Santoso 
+312310803
+noteme ( Aplikasi Catatan Untuk Mengingat Sebuah Tugas )
 
 # Penjelasan berupa story board dari Noteme ( Catatan )
 ![image](https://github.com/user-attachments/assets/07768e95-e778-48dc-bcd2-760f5baadc12)
