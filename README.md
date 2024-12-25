@@ -1,5 +1,5 @@
-# Sena Dwi Ilham Santoso 
-# 312310803
+# Sena Dwi Ilham Santoso ( 312310803 )
+
 # Noteme ( Aplikasi Catatan Untuk Mengingat Sebuah Tugas )
 
 # Penjelasan berupa story board dari Noteme ( Catatan )
