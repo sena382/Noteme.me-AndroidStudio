@@ -1,3 +1,5 @@
+# Sena-Dwi-Ilham-Santoso-312310803-noteme
+
 # Penjelasan berupa story board dari Noteme ( Catatan )
 ![image](https://github.com/user-attachments/assets/07768e95-e778-48dc-bcd2-760f5baadc12)
 ![Gambar WhatsApp 2024-11-05 pukul 15 33 14_43997a62](https://github.com/user-attachments/assets/9b8e23d6-00d0-47f5-b6bc-ab417664636a)\
